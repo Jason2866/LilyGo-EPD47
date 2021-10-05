@@ -1,6 +1,6 @@
 <h1 align = "center">🌟LilyGo EPD47 🌟</h1>
 
-## **English | [中文](./README_CN.MD)**
+## **English**
 
 - The driver and sample program are from [vroland/epdiy](https://github.com/vroland/epdiy)
 
